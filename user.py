@@ -8,10 +8,10 @@ def Log(title, content):
 url = "https://hcs.eduro.go.kr/#/none"
 
 data = {
-    "school": "서령고",
-    "name": "이재헌",
-    "birth": "060208",
-    "passwd": "1790"
+    "school": "",
+    "name": "",
+    "birth": "",
+    "passwd": ""
 }
 
 
